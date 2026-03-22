@@ -135,20 +135,20 @@ Planned evolution includes:
 ## Screenshots
 
 ### NF-e Import Flow
-![NF-e Import](./images/puschase_NFe_import.png)
+![NF-e Import](./Images/puschase_NFe_import.png)
 
 ### Dashboard
-![Dashboard](./images/dashboard.png)
+![Dashboard](./Images/dashboard.png)
 
 ### Purchases
-![Purchases](./images/purchase_detail.png)
-![Purchases](./images/purchases.png)
+![Purchases](./Images/purchase_detail.png)
+![Purchases](./Images/purchases.png)
 
 ### Orders
-![Orders](./images/order_detail.png)
+![Orders](./Images/order_detail.png)
 
 ### Product Detail
-![Product Detail](./images/product-detail.png)
+![Product Detail](./Images/product_detail.png)
 
 ---
 
